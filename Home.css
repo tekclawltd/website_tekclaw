@@ -26,6 +26,8 @@
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 3.4375rem;
+  font-weight: bold;
   margin: 20px 0 0;
 }
 
@@ -55,11 +57,6 @@
   .u-section-1 .u-group-1 {
     width: 940px;
     height: auto;
-  }
-
-  .u-section-1 .u-text-2 {
-    font-size: 3.4375rem;
-    font-weight: bold;
   }
 }
 
@@ -107,11 +104,12 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 298px;
+    min-height: 589px;
   }
 
   .u-section-1 .u-group-1 {
     width: 340px;
+    margin-top: 25px;
   }
 
   .u-section-1 .u-text-2 {
